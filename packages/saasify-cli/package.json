@@ -52,7 +52,7 @@
     "git-config-path": "^2.0.0",
     "github-username": "^5.0.1",
     "globby": "^10.0.1",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "handlebars": "^4.3.3",
     "ignore": "^5.1.4",
     "inquirer": "^7.0.0",
