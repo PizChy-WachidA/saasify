@@ -43,7 +43,7 @@
     "downloadjs": "^1.4.7",
     "eventemitter3": "^4.0.0",
     "fast-deep-equal": "^2.0.1",
-    "file-type": "^14.1.4",
+    "file-type": "^16.5.4",
     "fuse.js": "^3.4.5",
     "is-html": "^2.0.0",
     "localforage": "^1.7.3",
